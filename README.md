@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# This allows user to check the date by after/before from now
+This allows user to check the date by after/before from now
 
 ## Available Scripts
 
